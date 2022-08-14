@@ -13,7 +13,7 @@ return (
     <div className='maincontent'>
 	
 	<div className='main2'>
-	<div className='pf1'>
+	<div className='pf4'>
 	<h1>About</h1>
 	<hr />
 

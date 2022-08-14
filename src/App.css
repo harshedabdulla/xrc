@@ -115,7 +115,23 @@ text-align: center;
   padding-top: 7%;
 }
 .aboutcol{
-  padding: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.pf3{
+  text-align: left;
+  padding-bottom: 0%;
+}
+.pf4{
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+text-align: center;
+ margin-top: 5%;
+padding-right: 10%;
+    padding-left: 10%;
     margin-right: 15%;
     margin-left: 15%;
 }
