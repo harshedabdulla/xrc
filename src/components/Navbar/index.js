@@ -27,6 +27,7 @@ return (
 		<NavLink to="/sign-up" activeStyle>
 			Sign Up
 		</NavLink>
+		
 		</NavMenu>
 	</Nav>
 	</>

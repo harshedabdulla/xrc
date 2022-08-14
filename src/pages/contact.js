@@ -19,7 +19,16 @@ return (
 <p className='pf3'>Given the choice, people prefer to engage in activities that involve the physical presence of other people, whether those activities be collaborating on a project, seeing a movie or play, going to a music concert or museum, dining at a restaurant, watching sports, or just chatting over coffee.
 </p>
 <h3 className='hd'>Address</h3>
-<hr />
+<hr className='line1'></hr>
+<p className='pf3'>XR Lab Cusat, Student Amenity Centre  Cochin University of Science and Technology
+Kalamassery, Ernakulam, Kerala 682022</p>
+<h3 className='hd'>Email</h3>
+<hr className='line1'></hr>
+<p className='pf3'>Xxrc@cusat.ac.in</p>
+<h3 className='hd'>Phone</h3>
+<hr className='line1'></hr>
+<p className='pf3'>0484 123456</p>
+
 	</div>
 	<br />
 	<br />
