@@ -132,7 +132,7 @@ return (
 	</div>
         
 	</Container>
-
+	
 	<Container>
       <Row className='two sections'>
         <Col className='labcol1'>
@@ -150,6 +150,8 @@ return (
 		</Col>
       </Row>
 	  </Container>
+	
+	  <div className='aboutcol'>
 	  <Container>
       <Row>
         <Col className='sec3col1'>
@@ -169,6 +171,7 @@ return (
 		<p>sgcusat@gmail.com</p></Col>
       </Row>
 	  </Container>
+	</div>
 	</div>
 	</div>
 	</div>

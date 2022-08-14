@@ -25,7 +25,7 @@ return (
 		</NavLink>
 		
 		<NavLink to="/sign-up" activeStyle>
-			Log out
+			Sign Up
 		</NavLink>
 		</NavMenu>
 	</Nav>

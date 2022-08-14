@@ -36,7 +36,7 @@ text-align: center;
 }
 .bt1{
   padding-top: 5px;
-  background-color: #fe1816;
+  background-color: #ff1e56;
   border-radius: 5px;
   text-align: center;
  /* position: relative;
@@ -125,13 +125,23 @@ text-align: center;
   padding-bottom: 0%;
 }
 .pf4{
-  font-size: large;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-text-align: center;
- margin-top: 5%;
-padding-right: 10%;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    padding-right: 10%;
     padding-left: 10%;
     margin-right: 15%;
     margin-left: 15%;
+}
+.pf5{
+  text-align: initial;
+  width: max-content;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color:#ff1e56 !important;
+}
+.hd{
+  
 }
