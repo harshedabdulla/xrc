@@ -68,7 +68,8 @@ text-align: center;
 
 .sec3col1{
   text-align: center;
-  padding: auto;
+  padding-top: 30px;
+  
   margin-top: 12px;
 }
 
@@ -79,10 +80,12 @@ text-align: center;
 
 .sec2head1{
   text-decoration-line: underline;
-  /*text-align: center;*/
+  text-align: center;
   display: flex;
-  position: absolute;
+  /* position: absolute; */
   left: 22%;
+  margin-left: 8%;
+
 }
 /*.hr1{
   width:"70%";
@@ -93,13 +96,21 @@ text-align: center;
   text-decoration-line: underline;
   text-align: center;
   display: flex;
-  position: absolute;
+  /* position: absolute; */
   left: 22%;
+  margin-left: 8%;
 }
 
-.card{
-  border: none;
-}
+
 .labcol1{
   margin-left: 5%;
+}
+
+.p2img{
+  height: 5.5rem;
+  width: auto;
+  
+}
+.addres1{
+  padding-top: 7%;
 }

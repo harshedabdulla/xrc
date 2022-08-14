@@ -153,9 +153,13 @@ return (
 	  <Container>
       <Row>
         <Col className='sec3col1'>
-		<img src={p2}></img>
+		<img src={p2} className='p2img'></img>
+		<div className='addres1'>
 		<h5>Cochin University of Science and Technology</h5>
-		<p>University Road, South Kalamassery, Kalamassery, Kochi, Kerala 682022</p></Col>
+		<p>University Road, South Kalamassery, Kalamassery, Kochi, Kerala 682022</p>
+		</div>
+		</Col>
+		
         <Col className='sec3col2'>
 		<h5>Sasigopalan</h5>
 		<p>Director</p>
