@@ -172,7 +172,9 @@ return (
       </Row>
 	  </Container>
 	</div>
-	</div>
+	
+	<hr />
+	<p>© copyrights @xrc cusat 2022</p></div>
 	</div>
 	</div>
 
