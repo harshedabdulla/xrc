@@ -19,6 +19,7 @@ return (
 <p className='pf3'>Given the choice, people prefer to engage in activities that involve the physical presence of other people, whether those activities be collaborating on a project, seeing a movie or play, going to a music concert or museum, dining at a restaurant, watching sports, or just chatting over coffee.
 </p>
 <h3 className='hd'>Address</h3>
+<hr />
 	</div>
 	<br />
 	<br />

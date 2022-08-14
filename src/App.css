@@ -143,5 +143,5 @@ text-align: center;
   background-color:#ff1e56 !important;
 }
 .hd{
-  
+  display: -webkit-box;
 }
